@@ -1,0 +1,563 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.rect1{
+    position: absolute;
+width: 29.33px;
+height: 3px;
+left: 24px;
+top: 31px;
+}
+.rect2{
+    position: absolute;
+width: 22.33px;
+height: 3px;
+left: 31px;
+top: 43px;
+}
+
+.alloys{
+    position: absolute;
+width: 200px;
+height: 22px;
+left: 600px;
+top: 28px;
+font-family: 'ITC Avant Garde Gothic Std';
+font-style: normal;
+font-weight: 700;
+font-size: 28.75px;
+line-height: 30px;
+text-transform: uppercase;
+}
+
+.touch{
+    position: absolute;
+width: 104px;
+height: 13px;
+left: 1250px;
+top: 32px;
+font-size: 18px;
+line-height: 18px;
+text-decoration: underline;
+letter-spacing: -0.03em;
+font-family: 'ITC Avant Garde Gothic Std';
+font-style: normal;
+font-weight: 500;
+}
+
+.best{
+    position: absolute;
+width: 742px;
+height: 50px;
+left: 170px;
+top: 120px;
+font-family: 'ITC Avant Garde Gothic Std';
+font-style: normal;
+font-weight: 600;
+font-size: 80px;
+line-height: 110px;
+letter-spacing: -0.02em;
+color: #FFFFFF;
+}
+
+.image{
+    position: relative;
+    width: 1250px;
+    height: 600px;
+    left: 75px;
+    top: 79px;
+    right: 76px;
+    background: linear-gradient(180deg, #05283E -23.09%, rgba(9, 67, 103, 0) 107.85%);
+    mix-blend-mode: normal;
+}
+/* section2 */
+.smart{
+    position: absolute;
+width: 155px;
+height: 18px;
+left: 300px;
+top: 770px;
+
+font-family: 'ITC Avant Garde Gothic Std';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 18px;
+letter-spacing: -0.02em;
+color: #EC2232;
+}
+
+.some{
+    position: absolute;
+width: 500px;
+height: 150px;
+left: 300px;
+top: 800px;
+font-family: 'ITC Avant Garde Gothic Std';
+font-style: normal;
+font-weight: 500;
+font-size: 60px;
+line-height: 60px;
+letter-spacing: -0.02em;
+color: #222222;
+
+}
+
+.para{
+    position: absolute;
+width: 400px;
+height: 137px;
+left: 820px;
+top: 930px;
+font-family: 'ITC Avant Garde Gothic Std';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 20px;
+color: #000000;
+
+}
+
+.no1{
+    position: absolute;
+    width: 121px;
+    height: 85px;
+    left: 350px;
+    top: 1120px;
+    
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 90px;
+    line-height: 80px;    
+    letter-spacing: -0.02em;
+    color: #222222;
+    
+}
+
+.plus1{
+    position: absolute;
+width: 67px;
+height: 85px;
+left: 90px;
+top: 0px;
+font-family: 'ITC Avant Garde Gothic Std';
+font-style: normal;
+font-weight: 500;
+font-size: 100px;
+line-height: 80px;
+letter-spacing: -0.02em;
+color: #EC2232;
+
+} 
+
+.location{
+    position: absolute;
+width: 279px;
+height: 28px;
+left: 330px;
+top: 1200px;
+font-family: 'ITC Avant Garde Gothic Std';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 30px;
+letter-spacing: -0.02em;
+color: #222222;
+}
+
+.line1{
+    position: absolute;
+width: 1px;
+height: 114px;
+left: 590px;
+top: 1120px;
+background: #C4C4C4;
+}
+
+.no2{
+    position: absolute;
+    width: 121px;
+    height: 85px;
+    left: 700px;
+    top: 1120px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 90px;
+    line-height: 80px;    
+    letter-spacing: -0.02em;
+    color: #222222;
+}
+
+.plus2{
+    position: absolute;
+    width: 67px;
+    height: 85px;
+    left: 90px;
+    top: 0px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 100px;
+    line-height: 80px;
+    letter-spacing: -0.02em;    
+    color: #EC2232;
+}
+
+.year{
+    position: absolute;
+    width: 279px;
+    height: 28px;
+    left: 680px;
+    top: 1200px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 30px;
+    letter-spacing: -0.02em;
+    color: #222222;
+}
+
+.line2{
+    position: absolute;
+width: 1px;
+height: 114px;
+left: 930px;
+top: 1120px;
+background: #C4C4C4;
+}
+
+.no3{
+    position: absolute;
+    width: 121px;
+    height: 85px;
+    left: 1000px;
+    top: 1120px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 90px;
+    line-height: 80px;    
+    letter-spacing: -0.02em;
+    color: #222222;
+}
+.plus3{
+    position: absolute;
+    width: 67px;
+    height: 85px;
+    left: 90px;
+    top: 0px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 100px;
+    line-height: 80px;
+    letter-spacing: -0.02em;
+    color: #EC2232;
+}
+
+.Global{
+    position: absolute;
+    width: 279px;
+    height: 28px;
+    left: 980px;
+    top: 1200px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 30px;
+    letter-spacing: -0.02em;
+    color: #222222;
+}
+
+.image2{
+    position: relative;
+    margin-top: 750px;
+    width: 1403px;
+}
+.png{
+    position: absolute;
+    margin-top: 600px;
+    right: 750px;
+
+}
+.png1{
+    position: absolute;
+    margin-top: 750px;
+    right: 0px;
+
+}
+
+.customer{
+    position: absolute;
+width: 187px;
+height: 18px;
+left: 302px;
+top: 1440px;
+
+font-family: 'ITC Avant Garde Gothic Std';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 18px;
+letter-spacing: -0.02em;
+color: #EC2232;
+}
+.first-choice{
+    position: absolute;
+width: 904px;
+height: 170px;
+left: 302px;
+top: 1475px;
+font-family: 'ITC Avant Garde Gothic Std';
+font-style: normal;
+font-weight: 500;
+font-size: 70px;
+line-height: 70px;
+letter-spacing: -0.02em;
+color: #222222;
+}
+
+.carosel-1{
+    position: absolute;
+width: 300px;
+height: 310px;
+left: 300px;
+top: 1750px;
+
+}
+.carosel-2{
+    position: absolute;
+    width: 300px;
+    height: 310px;
+    left: 650px;
+    top: 1750px;
+}
+.carosel-3{
+    position: absolute;
+    width: 300px;
+    height: 310px;
+    left: 1000px;
+    top: 1750px;
+}
+.carosel-4{
+    position: absolute;
+    width: 50px;
+    height: 310px;
+    left: 1350px;
+    top: 1750px;
+}
+.experts{
+    position: absolute;
+width: 300px;
+height: 86px;
+left: 300px;
+top: 2060px;
+padding-top: 25px;
+padding-left: 20px;
+background-color: #FFFFFF;
+font-family: 'ITC Avant Garde Gothic Std';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 35px;
+letter-spacing: -0.02em;
+color: #222222;
+}
+
+.vast{
+    position: absolute;
+    width: 300px;
+    height: 86px;
+    left: 650px;
+    top: 2060px;
+    padding-top: 25px;
+    padding-left: 20px;
+    background-color: #FFFFFF;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 35px;    
+    letter-spacing: -0.02em;
+    color: #222222;
+}
+.latest{
+    position: absolute;
+    width: 300px;
+    height: 86px;
+    left: 1000px;
+    top: 2060px;
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-bottom: 20px;
+    background-color: #FFFFFF;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 35px;    
+    letter-spacing: -0.02em;
+    color: #222222;
+}
+.half{
+    height: 50vh;
+
+}
+.indus{
+    position: absolute;
+width: 743px;
+height: 85px;
+left: 157px;
+top: 2318px;
+
+font-family: 'ITC Avant Garde Gothic Std';
+font-style: normal;
+font-weight: 600;
+font-size: 90px;
+line-height: 85px;
+letter-spacing: -0.02em;
+}
+
+.indus2{
+    position: absolute;
+width: 743px;
+height: 85px;
+left: 157px;
+top: 2350px;
+padding-top: 15px;
+font-family: 'ITC Avant Garde Gothic Std';
+font-style: normal;
+font-weight: 600;
+font-size: 90px;
+line-height: 85px;
+background-color: #FFFFFF;
+letter-spacing: -0.02em;
+
+}
+.industry{
+    position: absolute;
+width: 743px;
+height: 85px;
+left: 157px;
+top: 2400px;
+background-color: #FFFFFF;
+padding-top: 10px;
+font-family: 'ITC Avant Garde Gothic Std';
+font-style: normal;
+font-weight: 600;
+font-size: 95px;
+line-height: 85px;
+letter-spacing: -0.02em;
+color: #222222;
+}
+
+.fatplus{
+    position: absolute;
+width: 46.5px;
+height: 45px;
+left: 120px;
+top: 2534px;
+opacity: 1.2;
+}
+.our{
+    position: absolute;
+width: 525px;
+height: 5px;
+left: 160px;
+top: 2600px;
+font-family: 'ITC Avant Garde Gothic Std';
+font-style: normal;
+font-weight: 300;
+font-size: 25px;
+line-height: 5px;
+color: #9198A0;
+}
+
+.longline{
+    position: absolute;
+width: 2px;
+height: 453px;
+left: 140px;
+top: 2706px;
+background: #EC2232;
+}
+
+.red-icon1{
+    position: absolute;
+left: 230px;
+right: 74.42%;
+top: 2713px;
+
+}
+.cement{
+    position: absolute;
+width: 231px;
+height: 25px;
+left: 340px;
+top: 2700px;
+font-family: 'ITC Avant Garde Gothic Std';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 25px;
+letter-spacing: -0.02em;
+color: #222222;
+
+
+}
+.para1{
+    position: absolute;
+width: 416px;
+height: 51px;
+left: 340px;
+top: 2740px;
+font-family: 'ITC Avant Garde Gothic Std';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 29px;
+color: #000000;
+}
+.red-icon2{
+    position: absolute;
+left: 830px;
+right: 74.42%;
+top: 2713px;
+
+}
+.mining{
+    position: absolute;
+width: 400px;
+height: 25px;
+left: 920px;
+top: 2700px;
+font-family: 'ITC Avant Garde Gothic Std';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 25px;
+letter-spacing: -0.02em;
+color: #222222;
+
+
+}
+.para2{
+    position: absolute;
+width: 416px;
+height: 51px;
+left: 920px;
+top: 2740px;
+font-family: 'ITC Avant Garde Gothic Std';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 29px;
+color: #000000;
+}
